@@ -1,0 +1,15 @@
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\Jeu_de_math.exe
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\Jeu_de_math.deps.json
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\Jeu_de_math.runtimeconfig.json
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\Jeu_de_math.dll
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\ref\Jeu_de_math.dll
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\bin\Debug\net6.0\Jeu_de_math.pdb
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.csproj.AssemblyReference.cache
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.AssemblyInfoInputs.cache
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.AssemblyInfo.cs
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.csproj.CoreCompileInputs.cache
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.dll
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\ref\Jeu_de_math.dll
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.pdb
+C:\Users\renoud\Desktop\Academy C#\Jeu_de_math\Jeu_de_math\obj\Debug\net6.0\Jeu_de_math.genruntimeconfig.cache
